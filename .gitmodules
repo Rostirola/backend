@@ -1,0 +1,18 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/Rostirola/gateway
+[submodule "service"]
+	path = service
+	url = https://github.com/Rostirola/service
+[submodule "alimentos"]
+	path = alimentos
+	url = https://github.com/Rostirola/alimentos
+[submodule "clientes"]
+	path = clientes
+	url = https://github.com/Rostirola/clientes
+[submodule "pedidos"]
+	path = pedidos
+	url = https://github.com/Rostirola/pedidos
+[submodule "usuarios"]
+	path = usuarios
+	url = https://github.com/Rostirola/usuarios
